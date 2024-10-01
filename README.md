@@ -6,6 +6,9 @@ This project is a simple **React** application that allows users to split bills 
 
 ![Steps Component](./public/Eat-N-Split.png)
 
+- Github Repo: [Github-link](https://github.com/Mikiyas6/Eat-N-Split)
+- Live Site URL: [Page-link](https://eat-and-splittt.netlify.app/)
+
 ## 📋 Features
 
 - 📃 **Add Friends**: Add your friends with a name and a picture to keep track of your expenses with them.
@@ -30,7 +33,7 @@ This project is a simple **React** application that allows users to split bills 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/friends-expense-tracker.git
+   git clone https://github.com/Mikiyas6/Eat-N-Split
    ```
 2. **Install dependencies**:
    ```bash
